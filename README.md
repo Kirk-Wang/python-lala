@@ -3,7 +3,7 @@ records
 
 * sudo apt-get install python-setuptools
 * sudo easy_install pip
-* sudo pip install virtualenv
+* sudo apt-get install python-virtualenv
 
 * python3: apt-get install python3
 * for pip3: sudo apt-get install python3-setuptools & sudo easy_install3 pip
